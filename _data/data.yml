@@ -1,19 +1,19 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Sofia Carvalho
+  title: I.T. Recruiter
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: a.sofiagcarvalho@gmail.com
+  phone: 
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: 
   medium:
-  linkedin:
+  linkedin: www.linkedin.com/in/ana-sofia-carvalho-399b88214/
   googlescholar:
   researchgate:
   github: github

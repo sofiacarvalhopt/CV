@@ -16,7 +16,7 @@ contact:
   linkedin: www.linkedin.com/in/ana-sofia-carvalho-399b88214/
   googlescholar:
   researchgate:
-  github: sofiacarvalhopt/CV
+  github: 
   gitlab:
   bitbucket:
   twitter: twitter
@@ -26,9 +26,9 @@ contact:
 
 profile:
   display: true
-  title: Profile
+  title: Resume
   details: |
-    It's your career profile, you can wirte markdown format text.
+    
     + First
     + Second
 
@@ -38,32 +38,33 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Administrative assintant
+      time: 2014-2021
+      company: Heliana Carvalho Unip.lda
       tag:
-      location: Beijing
+      location: Braga, Portugal
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Quality Departmant
+        + Auditation Departmant
+        + 
 
         ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Adults Formation
+      time: 2013-2014
+      company: C.V.P. Prado
+      tag: Internship
+      location: Prado / Vila Verde
       details: |
         Experience in this company:
-        + First
-        + Second
-
+        + Adult literacy with Montessori method
+        + Creation of all necessary manuals and guides to support the training course, visual and multimedia elements
+    
         ...
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -80,12 +81,12 @@ projects:
         Project Bar's detail, you can write markdown format text.
 
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     Here is my skills:
-    + First
-    + Second
+    + Comunication skills
+    + 
 
     ...
 
@@ -99,48 +100,28 @@ skills:
 
 education:
   display: true
-  title: Education
+  title: High graduation in Education Science
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Universidade do Minho
+      time: 2011-2014
+      major: Education Science
       degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
 
         ...
 
 certificates:
   display: true
-  title: Certificates
+  title: Auditing
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
+    - name: Auditing
+      authority: CESAE
+      time: 2019
+    - name: Quality Controle
+      authority: CESAE
+      time: 2019
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -156,7 +137,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -166,22 +147,27 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Portuguese
       level: Native
     - idiom: English
       level: Professional
-
+    - idiom: Spanish
+      level: Professional
+    - idiom: German
+      level: Iniciation
+    - idiom: French
+      level: Iniciation
 interests:
   display: true
   title: Interests
   items:
     - item: Reading
-      link:
-    - item: Cooking
-      link:
+    - item: Dancing
+    - item: Music
+    - item: BD or Manga
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -191,7 +177,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.

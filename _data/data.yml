@@ -45,8 +45,8 @@ experiences:
       location: Braga, Portugal
       details: |
         Experience in this company:
-        + Quality Departmant
-        + Auditation Departmant
+        + Quality Department
+        + Audit Department
         + 
 
         ...
@@ -111,9 +111,15 @@ education:
 
 certificates:
   display: true
-  title: Auditing
+  title: I.T. Recruter
   items:
-    - name: Audits
+   - name: I.T. Recruter
+     authority: TecHanters / Damian Group
+     time: 2021
+        ...
+  title: Audits
+  items:
+    - name: Audit
       authority: CESAE
       time: 2019
     - name: Quality Control

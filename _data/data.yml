@@ -47,7 +47,9 @@ experiences:
         Experience in this company:
         + Quality Department
         + Audit Department
-      
+        + 
+
+        ...
 
     - role: Adults Formation
       time: 2013-2014
@@ -59,6 +61,8 @@ experiences:
         + Adult literacy with Montessori method
         + Creation of all necessary manuals and guides to support the training course, visual and multimedia elements
     
+        ...
+
 projects:
   display: false
   title: Projects
@@ -103,6 +107,7 @@ education:
       major: Education Science
       degree: Bachelor
 
+        ...
 
 certificates:
   display: true
@@ -111,7 +116,7 @@ certificates:
    - name: I.T. Recruter
      authority: TecHanters / Damian Group
      time: 2021
-        
+        ...
   title: Audits
   items:
     - name: Audit

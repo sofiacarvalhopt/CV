@@ -113,10 +113,10 @@ certificates:
   display: true
   title: Auditing
   items:
-    - name: Auditing
+    - name: Audits
       authority: CESAE
       time: 2019
-    - name: Quality Controle
+    - name: Quality Control
       authority: CESAE
       time: 2019
 

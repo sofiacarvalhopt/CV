@@ -111,20 +111,25 @@ education:
 
 certificates:
   display: true
+  
   title: I.T. Recruter
   items:
    - name: I.T. Recruter
      authority: TecHanters / Damian Group
      time: 2021
         ...
-  title: Audits
+  title: Certificates
   items:
+    - name: I.T. Recruter
+      authority: TechANTers / Damian Group
+      time: 2021
     - name: Audit
       authority: CESAE
       time: 2019
     - name: Quality Control
       authority: CESAE
       time: 2019
+      
 
 publications:
   display: false
